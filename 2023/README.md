@@ -10,6 +10,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Alwin T Varghese
 - Aman Gupta
 - Aman Pandey
+- Amartya Jha
 - Amey Shinde
 - Bhavya Soni
 - Blessey Maria Saju
